@@ -1,0 +1,16 @@
+body {
+	background-color: #082121;
+}
+
+main {
+	width: 900px;
+	height: 1000px;
+	margin: 0 auto 0 auto;
+	background-color: white;
+	padding: 10px 20px 10px 20px;
+}
+
+form {
+	border: 2px solid;
+	padding: 10px;
+}
